@@ -42,3 +42,6 @@ config.json
 !*.jpg
 !*.png
 !*.gif
+
+# PDF
+!*.pdf
