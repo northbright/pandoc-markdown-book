@@ -64,3 +64,10 @@ func main() {
     fmt.Println("Hello World!")
 }
 ```
+
+## Local Image
+* Put the image to `./img` dir(`pandoc-markdown-book/img`)
+* Then use `![Alt text](img/xx.jpg)` to add the image
+* The image path(`img/xx.jpg`) is the relative path to the dir which contains `compile_pdf.sh`
+
+![an image](https://picsum.photos/200/300){#fig:randomimage}
