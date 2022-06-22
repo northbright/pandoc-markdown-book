@@ -9,6 +9,7 @@ pandoc \
     -o build/output.pdf \
     -V CJKmainfont="PingFangSC-Regular" \
     --listings \
+    -f markdown-implicit_figures \
     src/title.txt src/*.md
     # --template=./templates/eisvogel.latex \
     # --top-level-division=chapter \
