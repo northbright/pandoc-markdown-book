@@ -9,4 +9,4 @@ Many thanks to Ryan Frazier's [Write a Book with Markdown](https://pianomanfrazi
 
 
 ## Usage:
-See [Write a PDF Book with Markdown](https://github.com/northbright/Notes/blob/master/latex/write-a-pdf-book-with-markdown.md) for more information. 
+See [Write a PDF Book with Markdown](https://github.com/northbright/Notes/blob/master/pandoc/write-a-pdf-book-with-markdown.md) for more information.
